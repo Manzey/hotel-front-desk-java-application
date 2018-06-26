@@ -3,7 +3,7 @@ This application was created for a course taken at the Linneaus University. The 
 The goal of this project was to learn how to build and manage an application from scratch, keeping it well documented and making it great for the future.  
 Included in this repo are:  
 - HotelFX(Folder with runnable jar of the application. This should work aslong as the VPS is up and running, might encounter some errors otherwise)
-- app(Folder with all the sourcecode of the application.)
+- app(Folder with all the sourcecode of the application. Is runnable, but not fully operational, since it does not contain the database info as that is in an .env file that isnt included.)
 - Documentation(Folder with all the documentation and diagrams created for the application)
 
 
