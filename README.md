@@ -7,7 +7,7 @@ Included in this repo are:
 - Documentation(Folder with all the documentation and diagrams created for the application)
 
 
-The application and its documentation was created by:
-@brocahontaz
-@fredden87
-@Manzey
+The application and its documentation was created by:  
+@brocahontaz  
+@fredden87  
+@Manzey  
