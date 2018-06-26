@@ -5,3 +5,9 @@ Included in this repo are:
 - HotelFX(Folder with runnable jar of the application. This should work aslong as the VPS is up and running, might encounter some errors otherwise)
 - app(Folder with all the sourcecode of the application.)
 - Documentation(Folder with all the documentation and diagrams created for the application)
+
+
+The application and its documentation was created by:
+@brocahontaz
+@fredden87
+@Manzey
